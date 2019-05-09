@@ -1,7 +1,1 @@
-My first line in project
-<<<<<<< HEAD
-London is the capital of GB
-Moscow is the capital of Russia
-Paris is the capital of France
-=======
->>>>>>> parent of ef55c45... Capitals added
+MGUPI is awesome
